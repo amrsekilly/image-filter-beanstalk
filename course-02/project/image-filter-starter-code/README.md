@@ -1,6 +1,6 @@
 
 # Restful API link: 
-http://image-filter-dev2222222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.freecodecamp.org/static/wide-image-3cb329e8b3cae865be76746fbd069cd2.png
+http://image-filter-dev2222222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 
 
